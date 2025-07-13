@@ -1,12 +1,3 @@
-"""
-Trust Region Policy Optimization (TRPO) Implementation
-
-This module implements the TRPO algorithm as described in:
-"Trust Region Policy Optimization" by Schulman et al. (2015)
-
-Author: Manus AI
-Date: December 7, 2025
-"""
 
 import torch
 import torch.nn as nn
