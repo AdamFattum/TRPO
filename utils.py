@@ -1,9 +1,3 @@
-"""
-Utility functions for TRPO implementation.
-
-This module contains helper functions for logging, visualization,
-and other common tasks in reinforcement learning.
-"""
 
 import torch
 import numpy as np
